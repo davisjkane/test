@@ -1,0 +1,17 @@
+body {
+  font-family: Helvetica;
+}
+
+.jumbotron {
+  background-color: #f0f0f0;
+  color: #ff6666;
+  margin-top: 10px;
+}
+
+
+.col-md-4 {
+  background-color: #f0f0f0;
+  Height: 200px;
+  border-radius: 1px;
+  border: 1px solid #fff;
+}
