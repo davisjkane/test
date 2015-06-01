@@ -1,17 +1,35 @@
 body {
-  font-family: Helvetica;
+  background: #BDC3C7;
 }
 
-.jumbotron {
-  background-color: #f0f0f0;
-  color: #ff6666;
-  margin-top: 10px;
+body h2 {
+  color: red
 }
 
-
-.col-md-4 {
-  background-color: #f0f0f0;
-  Height: 200px;
-  border-radius: 1px;
-  border: 1px solid #fff;
+header {
+    text-align: center;
+    background: #fff;
+    background-size: cover;
+    color: #000;
+    margin: 0 auto;
+    width: 50%;
+}
+a {
+  color: white;
+}
+h1 {
+  font-size: 50px;
+}
+img { 
+  margin: 40px 0px 0px 0px;
+  border: 7px solid white;
+  border-radius: 20px;
+}
+ul {
+    padding: 10px;
+    background: black;
+}
+li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
 }
